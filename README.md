@@ -1,2 +1,2 @@
-# 2020-ARVR-Africa-Hackathon
-The 2020 ARVR Africa Hackathon Participant Guidelines
+# 2018-ARVR-Africa-Hackathon
+The 2018 ARVR Africa Hackathon Participant Guidelines
